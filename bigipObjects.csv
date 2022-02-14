@@ -1,0 +1,2 @@
+#virtual server name,virtual server address,virtual server port,iRule,pool name,pool member port,pool member address,pool member address
+virtual1,1.1.1.1,443,log4j_iRule,virtual1,80,192.0.1.11,192.0.1.12
